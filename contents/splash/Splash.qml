@@ -64,10 +64,7 @@ Rectangle {
             id: face
             source: "images/fish.gif"
             paused: false
-            anchors.horizontalCenter: parent.horizontalCenter
-            anchors.verticalCenter: parent.verticalCenter
-            width:  imageSoure.sizeAnim - 2
-            height: imageSoure.sizeAnim - 2
+            anchors.fill: parent
             smooth: true
             visible: true
          }

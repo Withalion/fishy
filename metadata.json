@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel/Splash",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "kartik.sindura@gmail.com",
+        "Name": "kartik"
+      }
+    ],
+    "Category": "",
+    "Description": "Fishbowl for Plasma KDE",
+    "Id": "fishy",
+    "License": "GPLv2+",
+    "Name": "Fishbowl",
+    "Version": "2.0",
+    "Website": ""
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2"
+}
